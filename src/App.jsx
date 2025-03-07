@@ -9,6 +9,7 @@ import Banner from "./components/banner"
 import BottomCard from "./components/bottom-card"
 import BottomBanner from "./components/bottom-banner"
 import Footer from "./components/footer"
+import Bitmain from "./components/bitmain"
 
 const App = () => {
     return (
@@ -18,6 +19,7 @@ const App = () => {
             <SwiperCard />
             <Info />
             <Banner />
+            <Bitmain />
             <BottomCard />
             <BottomBanner />
             <Footer />
